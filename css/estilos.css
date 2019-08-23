@@ -1,0 +1,60 @@
+head{
+    background-color: skyblue;
+}
+body{
+    font-size: 15px;
+    color: #ffffff;
+    background-image: url("../Img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    background-attachment: fixed;
+}
+.b1{
+    border: 10px;
+    background-image: url(../Img/Papel1.jpeg);
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: left;
+    width: 75%;
+    padding: 10px;
+    margin: 10px;
+    left: 5%;
+    position: absolute;
+}
+
+.b3{
+    border: 10px groove #0aa00a;
+    background: #7bc47b;
+    font-family: Century Gothic, sans-serif;
+    text-align: right;
+    width: 15%;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    z-index: 3;
+}
+.b4{
+    border: 10px ridge #000000;
+    background: #df6d10;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    z-index: 3;
+}
+.b5{
+    border: 10px inset #c57ae2;
+    background-image: url(../Img/Papel2.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    font-style: italic;
+    font-size: 20px;
+    width: 40%;
+    padding: 10px;
+    margin: 10px;
+    z-index: 3;
+}
+.b5 article{
+    font-weight: bold;
+}
+footer{
+    color: #ffffff;
+}
