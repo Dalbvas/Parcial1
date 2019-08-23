@@ -1,6 +1,10 @@
 head{
     background-color: skyblue;
 }
+body header nav a{
+    text-decoration: none;
+
+}
 body{
     font-size: 15px;
     color: #ffffff;
