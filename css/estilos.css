@@ -3,6 +3,8 @@ head{
 }
 body header nav a{
     text-decoration: none;
+    padding: 3%;
+    color: #c0c0c0;
 
 }
 body{
